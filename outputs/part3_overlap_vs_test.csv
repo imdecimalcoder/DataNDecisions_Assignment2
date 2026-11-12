@@ -1,0 +1,7 @@
+pair (A − B),individual CIs overlap?,overlap width (¥/m²),se_A + se_B,√(se_A² + se_B²) = se(diff),Welch test rejects?
+Chuo − Minato,True,87424.45540574566,129077.12349724019,96474.95920884865,False
+Chuo − Setagaya,False,0.0,112773.28157901735,90495.6551904737,True
+Chuo − Shibuya,True,158569.74535040278,126763.86740407356,95480.01894582702,False
+Minato − Setagaya,False,0.0,68569.98194679272,49838.026071855405,True
+Minato − Shibuya,True,22680.37628305191,82560.56777184893,58402.04835689684,True
+Setagaya − Shibuya,False,0.0,66256.7258536261,47883.662206283,True

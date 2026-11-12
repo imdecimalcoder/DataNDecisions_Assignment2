@@ -1,0 +1,6 @@
+Ward,original_records,condominium_records,usable_records,excluded_not_condo,excluded_condo_failed_checks
+Chuo,665,603,603,62,0
+Minato,833,727,727,106,0
+Setagaya,1488,746,746,742,0
+Shibuya,538,426,426,112,0
+Total,3524,2502,2502,1022,0
